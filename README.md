@@ -1,3 +1,3 @@
 # Human Exoskeleton Robot Simulation
 
-OpenExo, an open-source exoskeleton platform for mobility and rehabilitation research. ALICE is an Open-Source pediatric robotic exoskeleton
+OpenExo, an open-source exoskeleton platform for mobility and rehabilitation research. ALICE is an Open-Source pediatric robotic exoskeleton. The Real-Time Robot Arm Simulator is an open-source project creating a KUKA KR 700 PA-inspired virtual robotic arm using Blender and Python/Rust. Library for modelling of Delta Robots. ROS 2 packages for the ROBOTIS OpenMANIPULATOR platform provide the necessary interfaces and tools to control the robot, integrate with its sensors, and develop physical AI applications. Modular HHCM app will genereate URDF, SRDF and a complete ROS package, which can be used to simulate and control the robot
